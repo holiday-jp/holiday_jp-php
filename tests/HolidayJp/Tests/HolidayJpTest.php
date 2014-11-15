@@ -55,5 +55,15 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
             $this->assertTrue(HolidayJp::isHoliday($date));
         }
     }
+
+    /**
+     * test_countHolidays
+     *
+     */
+    public function test_countHolidays(){
+        $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays.yml'));
+        $holidays = HolidayJp::between(new DateTime('1970-01-01'), new DateTime('2050-12-31'));
+        $this->assertTrue((count($yamlDate) === count($holidays)));
+    }
     
 }
