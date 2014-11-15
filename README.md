@@ -9,7 +9,7 @@ Install this library using [Composer](https://getcomposer.org/).
 Run below command in your project directory.
 
 ```
-$ composer require 'k1low/holiday-jp:*'
+$ composer require 'k1low/holiday_jp:*'
 ```
 
 Or add this library in your `composer.json`'s `require` section manually.
