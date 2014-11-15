@@ -1,23 +1,15 @@
-# HolidayJp PHP
+# holiday_jp PHP
 
-This is almost ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp)
+[![Build Status](https://travis-ci.org/k1LoW/holiday_jp-php.svg?branch=master)](https://travis-ci.org/k1LoW/holiday_jp-php)
 
-## Installation
+This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp)
 
-Install this library using [Composer](https://getcomposer.org/).
-
-Run below command in your project directory.
-
-```
-$ composer require 'k1low/holiday_jp:*'
-```
-
-Or add this library in your `composer.json`'s `require` section manually.
+## Install
 
 ```json
 {
   "require": {
-    "k1low/holiday_jp": "*"
+    "k1low/holiday_jp": "dev-master"
   }
 }
 ```
