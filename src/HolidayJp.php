@@ -2,7 +2,6 @@
 
 namespace HolidayJp;
 
-use Carbon\Carbon;
 use HolidayJp\HolidayJp\Holidays;
 use DateTime;
 
