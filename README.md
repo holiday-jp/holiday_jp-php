@@ -2,9 +2,11 @@
 
 [![Build Status](https://travis-ci.org/k1LoW/holiday_jp-php.svg?branch=master)](https://travis-ci.org/k1LoW/holiday_jp-php)
 
-This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp)
+Get holidays in Japan.
 
-## Install
+This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp).
+
+## Installation
 
 ```json
 {
@@ -12,4 +14,14 @@ This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp
     "k1low/holiday_jp": "dev-master"
   }
 }
+```
+
+```php
+require 'vendor/autoload.php';
+
+use HolidayJp\HolidayJp;
+
+$holidays = HolidayJp::between(new DateTime('2010-09-14'), new DateTime('2010-09-21'))
+
+echo $holidays[0].name // 敬老の日
 ```
