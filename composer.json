@@ -1,0 +1,24 @@
+{
+    "name": "k1low/holiday-jp",
+    "description": "Japanese holidays",
+    "keywords": ["date", "holiday"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ken'ichiro Oyama",
+            "homepage": "https://github.com/k1LoW",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.3",
+        "nesbot/Carbon": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.1.0",
+        "symfony/yaml": ">=2.4.0"
+    },
+    "autoload": {
+        "psr-4": { "HolidayJp\\": "src/" }
+    }
+}
