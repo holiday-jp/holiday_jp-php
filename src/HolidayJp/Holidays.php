@@ -1,5 +1,5 @@
 <?php
-// Generated code
+// Generated from holidays.yml at 2014-11-16 15:58:33
 namespace HolidayJp\HolidayJp;
 
 /**

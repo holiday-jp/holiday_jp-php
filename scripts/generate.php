@@ -11,9 +11,10 @@ use Carbon\Carbon;
 
 $holidays = Yaml::parse(file_get_contents('holiday_jp/holidays.yml'));
 
+$timestamp = date('Y-m-d H:i:s');
 echo <<<EOS
 <?php
-// Generated code
+// Generated from holidays.yml at $timestamp
 namespace HolidayJp\HolidayJp;
 
 /**
