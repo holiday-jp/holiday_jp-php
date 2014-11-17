@@ -11,7 +11,7 @@ This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp
 ```json
 {
   "require": {
-    "k1low/holiday_jp": "dev-master"
+    "k1low/holiday_jp": "*"
   }
 }
 ```
