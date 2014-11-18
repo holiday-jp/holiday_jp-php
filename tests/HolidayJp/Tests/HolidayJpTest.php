@@ -57,6 +57,15 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
     }
 
     /**
+     * test_betweenSeconds
+     *
+     */
+    public function test_betweenSeconds(){
+       $holidays = HolidayJp::between(new DateTime('2014-09-23 00:00:01'), new DateTime('2014-09-23 00:00:01'));
+       $this->assertTrue(count($holidays) === 1);
+    }
+    
+    /**
      * test_countHolidays
      *
      */
@@ -64,6 +73,17 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
         $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays.yml'));
         $holidays = HolidayJp::between(new DateTime('1970-01-01'), new DateTime('2050-12-31'));
         $this->assertTrue((count($yamlDate) === count($holidays)));
+    }
+
+    /**
+     * test_fullHolidays
+     *
+     */
+    public function test_fullHolidays(){
+        $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays.yml'));
+        foreach ($yamlDate as $date => $value) {
+            $this->assertTrue(HolidayJp::isHoliday(new DateTime(date('Y-m-d', $date))));
+        }
     }
     
 }
