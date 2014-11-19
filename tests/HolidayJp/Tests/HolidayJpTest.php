@@ -17,18 +17,18 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
     public function test_between(){
         $holidays = HolidayJp::between(new DateTime('2009-01-01'), new DateTime('2009-01-31'));
         $new_year_day = $holidays[0];
-        $this->assertTrue(($new_year_day['date'] == new DateTime('2009-01-01')));
-        $this->assertTrue(($new_year_day['name'] === '元日'));
-        $this->assertTrue(($new_year_day['name_en'] === "New Year's Day"));
-        $this->assertTrue(($new_year_day['week'] === '木'));
+        $this->assertEquals(new DateTime('2009-01-01'), $new_year_day['date']);
+        $this->assertEquals('元日', $new_year_day['name']);
+        $this->assertEquals("New Year's Day", $new_year_day['name_en']);
+        $this->assertEquals('木', $new_year_day['week']);
 
-        $this->assertTrue(($holidays[1]['date'] == new DateTime('2009-01-12')));
-        $this->assertTrue(($holidays[1]['name'] === '成人の日'));
+        $this->assertEquals(new DateTime('2009-01-12'), $holidays[1]['date']);
+        $this->assertEquals('成人の日', $holidays[1]['name']);
 
         $holidays = HolidayJp::between(new DateTime('2008-12-23'), new DateTime('2009-01-12'));
-        $this->assertTrue(($holidays[0]['date'] == new DateTime('2008-12-23')));
-        $this->assertTrue(($holidays[1]['date'] == new DateTime('2009-01-01')));
-        $this->assertTrue(($holidays[2]['date'] == new DateTime('2009-01-12')));
+        $this->assertEquals(new DateTime('2008-12-23'), $holidays[0]['date']);
+        $this->assertEquals(new DateTime('2009-01-01'), $holidays[1]['date']);
+        $this->assertEquals(new DateTime('2009-01-12'), $holidays[2]['date']);
     }
     
     /**
@@ -62,7 +62,7 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
      */
     public function test_betweenSeconds(){
        $holidays = HolidayJp::between(new DateTime('2014-09-23 00:00:01'), new DateTime('2014-09-23 00:00:01'));
-       $this->assertTrue(count($holidays) === 1);
+       $this->assertEquals(1, count($holidays));
     }
     
     /**
@@ -72,7 +72,7 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
     public function test_countHolidays(){
         $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays.yml'));
         $holidays = HolidayJp::between(new DateTime('1970-01-01'), new DateTime('2050-12-31'));
-        $this->assertTrue((count($yamlDate) === count($holidays)));
+        $this->assertEquals(count($yamlDate), count($holidays));
     }
 
     /**
