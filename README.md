@@ -23,5 +23,5 @@ use HolidayJp\HolidayJp;
 
 $holidays = HolidayJp::between(new DateTime('2010-09-14'), new DateTime('2010-09-21'))
 
-echo $holidays[0].name // 敬老の日
+echo $holidays[0]['name'] // 敬老の日
 ```
