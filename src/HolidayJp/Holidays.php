@@ -5372,6 +5372,13 @@ class Holidays
             'name' => '山の日',
             'name_en' => "Mountain Day",
         ),
+        '2019-08-12' => array(
+            'date' => '2019-08-12',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '振替休日',
+            'name_en' => "Holiday in lieu",
+        ),
         '2019-09-16' => array(
             'date' => '2019-09-16',
             'week' => '月',
@@ -5966,6 +5973,13 @@ class Holidays
             'week_en' => 'Sunday',
             'name' => '山の日',
             'name_en' => "Mountain Day",
+        ),
+        '2024-08-12' => array(
+            'date' => '2024-08-12',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2024-09-16' => array(
             'date' => '2024-09-16',
@@ -6722,6 +6736,13 @@ class Holidays
             'week_en' => 'Sunday',
             'name' => '山の日',
             'name_en' => "Mountain Day",
+        ),
+        '2030-08-12' => array(
+            'date' => '2030-08-12',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2030-09-16' => array(
             'date' => '2030-09-16',
@@ -8081,6 +8102,13 @@ class Holidays
             'name' => '山の日',
             'name_en' => "Mountain Day",
         ),
+        '2041-08-12' => array(
+            'date' => '2041-08-12',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '振替休日',
+            'name_en' => "Holiday in lieu",
+        ),
         '2041-09-16' => array(
             'date' => '2041-09-16',
             'week' => '月',
@@ -8836,6 +8864,13 @@ class Holidays
             'week_en' => 'Sunday',
             'name' => '山の日',
             'name_en' => "Mountain Day",
+        ),
+        '2047-08-12' => array(
+            'date' => '2047-08-12',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2047-09-16' => array(
             'date' => '2047-09-16',
