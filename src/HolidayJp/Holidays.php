@@ -2320,8 +2320,8 @@ class Holidays
             'name' => '皇太子徳仁親王の結婚の儀',
             'name_en' => "The Rite of Wedding of HIH Crown Prince Naruhito",
         ),
-        '1993-09-05' => array(
-            'date' => '1993-09-05',
+        '1993-09-15' => array(
+            'date' => '1993-09-15',
             'week' => '日',
             'week_en' => 'Sunday',
             'name' => '敬老の日',
