@@ -1,10 +1,8 @@
 # holiday_jp PHP
 
-[![Build Status](https://travis-ci.org/k1LoW/holiday_jp-php.svg?branch=master)](https://travis-ci.org/k1LoW/holiday_jp-php)
+[![Build Status](https://travis-ci.org/holiday-jp/holiday_jp-php.svg?branch=master)](https://travis-ci.org/holiday-jp/holiday_jp-php)
 
 Get holidays in Japan.
-
-This is ported from [komagata/holiday_jp](https://github.com/komagata/holiday_jp).
 
 ## Installation
 
