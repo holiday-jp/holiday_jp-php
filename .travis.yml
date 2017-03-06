@@ -13,6 +13,7 @@ matrix:
 
 before_script:
   - git submodule update --init
+  - cd holiday_jp/; git pull origin master; cd ../
   - composer install
 
 script: vendor/bin/phpunit
