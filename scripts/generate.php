@@ -7,14 +7,13 @@ date_default_timezone_set('Asia/Tokyo');
 require 'vendor/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
-use Carbon\Carbon;
 
-$holidays = Yaml::parse(file_get_contents('holiday_jp/holidays.yml'));
+$holidays = Yaml::parse(file_get_contents('holiday_jp/holidays_detailed.yml'));
 
 $timestamp = date('Y-m-d H:i:s');
 echo <<<EOS
 <?php
-// Generated from holidays.yml at $timestamp
+// Generated from holidays_detailed.yml at $timestamp
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -29,7 +28,7 @@ class Holidays
 EOS;
 
 foreach ($holidays as $date => $value) {
-    $dateStr = Carbon::createFromTimestamp($date)->toDateString();
+    $dateStr = date('Y-m-d', $date);
     echo "        '" . $dateStr . "' => array(" . "\n";
     echo "            'date' => '" . $dateStr . "'," . "\n";
     echo "            'week' => '" . $value['week'] . "'," . "\n";
