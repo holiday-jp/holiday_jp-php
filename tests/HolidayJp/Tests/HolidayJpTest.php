@@ -83,6 +83,9 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
         $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays_detailed.yml'));
         foreach ($yamlDate as $date => $value) {
             $this->assertTrue(HolidayJp::isHoliday(new DateTime(date('Y-m-d', $date))));
+            $actual = HolidayJp\Holidays::$holidays[date('Y-m-d', $date)];
+            $value['date'] = date('Y-m-d', $value['date']);
+            $this->assertEquals($actual, $value);
         }
     }
     

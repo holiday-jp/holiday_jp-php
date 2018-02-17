@@ -1,5 +1,5 @@
 <?php
-// Generated from holidays.yml at 2014-11-16 15:58:33
+// Generated from holidays_detailed.yml at 2018-02-17 18:02:28
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -2322,8 +2322,8 @@ class Holidays
         ),
         '1993-09-15' => array(
             'date' => '1993-09-15',
-            'week' => '日',
-            'week_en' => 'Sunday',
+            'week' => '水',
+            'week_en' => 'Wednesday',
             'name' => '敬老の日',
             'name_en' => "Respect for the Aged Day",
         ),
