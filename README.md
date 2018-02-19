@@ -9,7 +9,7 @@ Get holidays in Japan.
 ```json
 {
   "require": {
-    "k1low/holiday_jp": "*"
+    "holiday-jp/holiday_jp": "*"
   }
 }
 ```
