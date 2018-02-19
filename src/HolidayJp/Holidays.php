@@ -1,5 +1,5 @@
 <?php
-// Generated from holidays_detailed.yml at 2018-02-17 18:02:28
+// Generated from holidays_detailed.yml at 2018-02-19 15:45:27
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -301,7 +301,7 @@ class Holidays
             'date' => '1973-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1973-05-03' => array(
@@ -336,7 +336,7 @@ class Holidays
             'date' => '1973-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1973-10-10' => array(
@@ -413,7 +413,7 @@ class Holidays
             'date' => '1974-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1974-09-15' => array(
@@ -427,7 +427,7 @@ class Holidays
             'date' => '1974-09-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '敬老の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1974-09-23' => array(
@@ -455,7 +455,7 @@ class Holidays
             'date' => '1974-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1974-11-23' => array(
@@ -553,7 +553,7 @@ class Holidays
             'date' => '1975-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1976-01-01' => array(
@@ -630,7 +630,7 @@ class Holidays
             'date' => '1976-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '体育の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1976-11-03' => array(
@@ -742,7 +742,7 @@ class Holidays
             'date' => '1978-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1978-01-15' => array(
@@ -756,7 +756,7 @@ class Holidays
             'date' => '1978-01-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '成人の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1978-02-11' => array(
@@ -854,7 +854,7 @@ class Holidays
             'date' => '1979-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1979-03-21' => array(
@@ -875,7 +875,7 @@ class Holidays
             'date' => '1979-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1979-05-03' => array(
@@ -1015,7 +1015,7 @@ class Holidays
             'date' => '1980-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1981-01-01' => array(
@@ -1064,7 +1064,7 @@ class Holidays
             'date' => '1981-05-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '憲法記念日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1981-05-05' => array(
@@ -1141,7 +1141,7 @@ class Holidays
             'date' => '1982-03-22',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1982-04-29' => array(
@@ -1190,7 +1190,7 @@ class Holidays
             'date' => '1982-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '体育の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1982-11-03' => array(
@@ -1302,7 +1302,7 @@ class Holidays
             'date' => '1984-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1984-01-15' => array(
@@ -1316,7 +1316,7 @@ class Holidays
             'date' => '1984-01-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '成人の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1984-02-11' => array(
@@ -1344,7 +1344,7 @@ class Holidays
             'date' => '1984-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1984-05-03' => array(
@@ -1379,7 +1379,7 @@ class Holidays
             'date' => '1984-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1984-10-10' => array(
@@ -1456,7 +1456,7 @@ class Holidays
             'date' => '1985-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1985-09-15' => array(
@@ -1470,7 +1470,7 @@ class Holidays
             'date' => '1985-09-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '敬老の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1985-09-23' => array(
@@ -1498,7 +1498,7 @@ class Holidays
             'date' => '1985-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1985-11-23' => array(
@@ -1596,7 +1596,7 @@ class Holidays
             'date' => '1986-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1987-01-01' => array(
@@ -1645,7 +1645,7 @@ class Holidays
             'date' => '1987-05-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '憲法記念日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1987-05-05' => array(
@@ -1722,7 +1722,7 @@ class Holidays
             'date' => '1988-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1988-04-29' => array(
@@ -1799,7 +1799,7 @@ class Holidays
             'date' => '1989-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1989-01-15' => array(
@@ -1813,7 +1813,7 @@ class Holidays
             'date' => '1989-01-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '成人の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1989-02-11' => array(
@@ -1932,7 +1932,7 @@ class Holidays
             'date' => '1990-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1990-03-21' => array(
@@ -1953,7 +1953,7 @@ class Holidays
             'date' => '1990-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'みどりの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1990-05-03' => array(
@@ -1995,7 +1995,7 @@ class Holidays
             'date' => '1990-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1990-10-10' => array(
@@ -2037,7 +2037,7 @@ class Holidays
             'date' => '1990-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1991-01-01' => array(
@@ -2100,7 +2100,7 @@ class Holidays
             'date' => '1991-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1991-09-15' => array(
@@ -2114,7 +2114,7 @@ class Holidays
             'date' => '1991-09-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '敬老の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1991-09-23' => array(
@@ -2142,7 +2142,7 @@ class Holidays
             'date' => '1991-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1991-11-23' => array(
@@ -2205,7 +2205,7 @@ class Holidays
             'date' => '1992-05-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '憲法記念日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1992-05-05' => array(
@@ -2345,7 +2345,7 @@ class Holidays
             'date' => '1993-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '体育の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1993-11-03' => array(
@@ -2478,7 +2478,7 @@ class Holidays
             'date' => '1995-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1995-01-15' => array(
@@ -2492,7 +2492,7 @@ class Holidays
             'date' => '1995-01-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '成人の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1995-02-11' => array(
@@ -2604,7 +2604,7 @@ class Holidays
             'date' => '1996-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1996-03-20' => array(
@@ -2646,7 +2646,7 @@ class Holidays
             'date' => '1996-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1996-07-20' => array(
@@ -2667,7 +2667,7 @@ class Holidays
             'date' => '1996-09-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '敬老の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1996-09-23' => array(
@@ -2695,7 +2695,7 @@ class Holidays
             'date' => '1996-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1996-11-23' => array(
@@ -2772,7 +2772,7 @@ class Holidays
             'date' => '1997-07-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '海の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1997-09-15' => array(
@@ -2814,7 +2814,7 @@ class Holidays
             'date' => '1997-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1997-12-23' => array(
@@ -2870,7 +2870,7 @@ class Holidays
             'date' => '1998-05-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '憲法記念日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1998-05-05' => array(
@@ -2961,7 +2961,7 @@ class Holidays
             'date' => '1999-03-22',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1999-04-29' => array(
@@ -3024,7 +3024,7 @@ class Holidays
             'date' => '1999-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '体育の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '1999-11-03' => array(
@@ -3178,7 +3178,7 @@ class Holidays
             'date' => '2001-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2001-03-20' => array(
@@ -3199,7 +3199,7 @@ class Holidays
             'date' => '2001-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'みどりの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2001-05-03' => array(
@@ -3248,7 +3248,7 @@ class Holidays
             'date' => '2001-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2001-10-08' => array(
@@ -3283,7 +3283,7 @@ class Holidays
             'date' => '2001-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2002-01-01' => array(
@@ -3346,7 +3346,7 @@ class Holidays
             'date' => '2002-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2002-07-20' => array(
@@ -3367,7 +3367,7 @@ class Holidays
             'date' => '2002-09-16',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '敬老の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2002-09-23' => array(
@@ -3395,7 +3395,7 @@ class Holidays
             'date' => '2002-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2002-11-23' => array(
@@ -3507,7 +3507,7 @@ class Holidays
             'date' => '2003-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2003-12-23' => array(
@@ -3654,7 +3654,7 @@ class Holidays
             'date' => '2005-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2005-04-29' => array(
@@ -3745,7 +3745,7 @@ class Holidays
             'date' => '2006-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2006-01-09' => array(
@@ -3871,7 +3871,7 @@ class Holidays
             'date' => '2007-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2007-03-21' => array(
@@ -3892,7 +3892,7 @@ class Holidays
             'date' => '2007-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2007-05-03' => array(
@@ -3941,7 +3941,7 @@ class Holidays
             'date' => '2007-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2007-10-08' => array(
@@ -3976,7 +3976,7 @@ class Holidays
             'date' => '2007-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2008-01-01' => array(
@@ -4039,7 +4039,7 @@ class Holidays
             'date' => '2008-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2008-07-21' => array(
@@ -4088,7 +4088,7 @@ class Holidays
             'date' => '2008-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2008-12-23' => array(
@@ -4158,7 +4158,7 @@ class Holidays
             'date' => '2009-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2009-07-20' => array(
@@ -4249,7 +4249,7 @@ class Holidays
             'date' => '2010-03-22',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2010-04-29' => array(
@@ -4445,7 +4445,7 @@ class Holidays
             'date' => '2012-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2012-01-09' => array(
@@ -4480,7 +4480,7 @@ class Holidays
             'date' => '2012-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2012-05-03' => array(
@@ -4557,7 +4557,7 @@ class Holidays
             'date' => '2012-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2013-01-01' => array(
@@ -4620,7 +4620,7 @@ class Holidays
             'date' => '2013-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2013-07-15' => array(
@@ -4662,7 +4662,7 @@ class Holidays
             'date' => '2013-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2013-11-23' => array(
@@ -4739,7 +4739,7 @@ class Holidays
             'date' => '2014-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2014-07-21' => array(
@@ -4788,7 +4788,7 @@ class Holidays
             'date' => '2014-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2014-12-23' => array(
@@ -4858,7 +4858,7 @@ class Holidays
             'date' => '2015-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2015-07-20' => array(
@@ -4949,7 +4949,7 @@ class Holidays
             'date' => '2016-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2016-04-29' => array(
@@ -5047,7 +5047,7 @@ class Holidays
             'date' => '2017-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2017-01-09' => array(
@@ -5180,7 +5180,7 @@ class Holidays
             'date' => '2018-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2018-03-21' => array(
@@ -5201,7 +5201,7 @@ class Holidays
             'date' => '2018-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2018-05-03' => array(
@@ -5257,7 +5257,7 @@ class Holidays
             'date' => '2018-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2018-10-08' => array(
@@ -5292,7 +5292,7 @@ class Holidays
             'date' => '2018-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2019-01-01' => array(
@@ -5355,7 +5355,7 @@ class Holidays
             'date' => '2019-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2019-07-15' => array(
@@ -5376,7 +5376,7 @@ class Holidays
             'date' => '2019-08-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '山の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2019-09-16' => array(
@@ -5411,7 +5411,7 @@ class Holidays
             'date' => '2019-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2019-11-23' => array(
@@ -5488,7 +5488,7 @@ class Holidays
             'date' => '2020-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2020-07-20' => array(
@@ -5782,7 +5782,7 @@ class Holidays
             'date' => '2023-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2023-01-09' => array(
@@ -5915,7 +5915,7 @@ class Holidays
             'date' => '2024-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2024-03-20' => array(
@@ -5957,7 +5957,7 @@ class Holidays
             'date' => '2024-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2024-07-15' => array(
@@ -5978,7 +5978,7 @@ class Holidays
             'date' => '2024-08-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '山の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2024-09-16' => array(
@@ -5999,7 +5999,7 @@ class Holidays
             'date' => '2024-09-23',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2024-10-14' => array(
@@ -6020,7 +6020,7 @@ class Holidays
             'date' => '2024-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2024-11-23' => array(
@@ -6097,7 +6097,7 @@ class Holidays
             'date' => '2025-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2025-07-21' => array(
@@ -6153,7 +6153,7 @@ class Holidays
             'date' => '2025-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2025-12-23' => array(
@@ -6223,7 +6223,7 @@ class Holidays
             'date' => '2026-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2026-07-20' => array(
@@ -6321,7 +6321,7 @@ class Holidays
             'date' => '2027-03-22',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2027-04-29' => array(
@@ -6545,7 +6545,7 @@ class Holidays
             'date' => '2029-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2029-03-20' => array(
@@ -6566,7 +6566,7 @@ class Holidays
             'date' => '2029-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2029-05-03' => array(
@@ -6622,7 +6622,7 @@ class Holidays
             'date' => '2029-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2029-10-08' => array(
@@ -6657,7 +6657,7 @@ class Holidays
             'date' => '2029-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2030-01-01' => array(
@@ -6720,7 +6720,7 @@ class Holidays
             'date' => '2030-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2030-07-15' => array(
@@ -6741,7 +6741,7 @@ class Holidays
             'date' => '2030-08-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '山の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2030-09-16' => array(
@@ -6776,7 +6776,7 @@ class Holidays
             'date' => '2030-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2030-11-23' => array(
@@ -6853,7 +6853,7 @@ class Holidays
             'date' => '2031-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2031-07-21' => array(
@@ -6909,7 +6909,7 @@ class Holidays
             'date' => '2031-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2031-12-23' => array(
@@ -7070,7 +7070,7 @@ class Holidays
             'date' => '2033-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2033-04-29' => array(
@@ -7168,7 +7168,7 @@ class Holidays
             'date' => '2034-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2034-01-09' => array(
@@ -7301,7 +7301,7 @@ class Holidays
             'date' => '2035-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2035-03-21' => array(
@@ -7322,7 +7322,7 @@ class Holidays
             'date' => '2035-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2035-05-03' => array(
@@ -7378,7 +7378,7 @@ class Holidays
             'date' => '2035-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2035-10-08' => array(
@@ -7413,7 +7413,7 @@ class Holidays
             'date' => '2035-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2036-01-01' => array(
@@ -7476,7 +7476,7 @@ class Holidays
             'date' => '2036-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2036-07-21' => array(
@@ -7532,7 +7532,7 @@ class Holidays
             'date' => '2036-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2036-12-23' => array(
@@ -7602,7 +7602,7 @@ class Holidays
             'date' => '2037-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2037-07-20' => array(
@@ -7903,7 +7903,7 @@ class Holidays
             'date' => '2040-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2040-01-09' => array(
@@ -7938,7 +7938,7 @@ class Holidays
             'date' => '2040-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2040-05-03' => array(
@@ -8022,7 +8022,7 @@ class Holidays
             'date' => '2040-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2041-01-01' => array(
@@ -8085,7 +8085,7 @@ class Holidays
             'date' => '2041-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2041-07-15' => array(
@@ -8106,7 +8106,7 @@ class Holidays
             'date' => '2041-08-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '山の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2041-09-16' => array(
@@ -8141,7 +8141,7 @@ class Holidays
             'date' => '2041-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2041-11-23' => array(
@@ -8218,7 +8218,7 @@ class Holidays
             'date' => '2042-05-06',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2042-07-21' => array(
@@ -8274,7 +8274,7 @@ class Holidays
             'date' => '2042-11-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2042-12-23' => array(
@@ -8344,7 +8344,7 @@ class Holidays
             'date' => '2043-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2043-07-20' => array(
@@ -8442,7 +8442,7 @@ class Holidays
             'date' => '2044-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2044-04-29' => array(
@@ -8540,7 +8540,7 @@ class Holidays
             'date' => '2045-01-02',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '元日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2045-01-09' => array(
@@ -8673,7 +8673,7 @@ class Holidays
             'date' => '2046-02-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2046-03-20' => array(
@@ -8694,7 +8694,7 @@ class Holidays
             'date' => '2046-04-30',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '昭和の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2046-05-03' => array(
@@ -8750,7 +8750,7 @@ class Holidays
             'date' => '2046-09-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '秋分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2046-10-08' => array(
@@ -8785,7 +8785,7 @@ class Holidays
             'date' => '2046-12-24',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '天皇誕生日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2047-01-01' => array(
@@ -8848,7 +8848,7 @@ class Holidays
             'date' => '2047-05-06',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2047-07-15' => array(
@@ -8869,7 +8869,7 @@ class Holidays
             'date' => '2047-08-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '山の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2047-09-16' => array(
@@ -8904,7 +8904,7 @@ class Holidays
             'date' => '2047-11-04',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '文化の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2047-11-23' => array(
@@ -8981,7 +8981,7 @@ class Holidays
             'date' => '2048-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '振替休日',
+            'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2048-07-20' => array(
@@ -9191,7 +9191,7 @@ class Holidays
             'date' => '2050-03-21',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '振替休日',
+            'name' => '春分の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2050-04-29' => array(
