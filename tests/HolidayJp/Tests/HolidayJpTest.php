@@ -9,10 +9,17 @@ date_default_timezone_set('Asia/Tokyo');
 
 class HolidayJpTest extends \PHPUnit_Framework_TestCase
 {
+    /**
+     * test_holidays
+     *
+     */
+    public function test_holidays() {
+        $this->assertEquals(HolidayJp\Holidays::$holidays['1973-04-30']['name'], '天皇誕生日 振替休日');
+    }
 
     /**
      * test_between
-     * 
+     *
      */
     public function test_between(){
         $holidays = HolidayJp::between(new DateTime('2009-01-01'), new DateTime('2009-01-31'));
@@ -30,7 +37,7 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals(new DateTime('2009-01-01'), $holidays[1]['date']);
         $this->assertEquals(new DateTime('2009-01-12'), $holidays[2]['date']);
     }
-    
+
     /**
      * test_isHoliday
      *
@@ -64,7 +71,7 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
        $holidays = HolidayJp::between(new DateTime('2014-09-23 00:00:01'), new DateTime('2014-09-23 00:00:01'));
        $this->assertEquals(1, count($holidays));
     }
-    
+
     /**
      * test_countHolidays
      *
@@ -88,5 +95,5 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
             $this->assertEquals($actual, $value);
         }
     }
-    
+
 }
