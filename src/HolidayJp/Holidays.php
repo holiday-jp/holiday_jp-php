@@ -1,5 +1,5 @@
 <?php
-// Generated from holidays_detailed.yml at 2018-02-19 15:45:27
+// Generated from holidays_detailed.yml at 2018-02-21 00:05:47
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -5421,13 +5421,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2019-12-23' => array(
-            'date' => '2019-12-23',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2020-01-01' => array(
             'date' => '2020-01-01',
             'week' => '水',
@@ -5448,6 +5441,20 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2020-02-23' => array(
+            'date' => '2020-02-23',
+            'week' => '日',
+            'week_en' => 'Sunday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
+        ),
+        '2020-02-24' => array(
+            'date' => '2020-02-24',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2020-03-20' => array(
             'date' => '2020-03-20',
@@ -5540,13 +5547,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2020-12-23' => array(
-            'date' => '2020-12-23',
-            'week' => '水',
-            'week_en' => 'Wednesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2021-01-01' => array(
             'date' => '2021-01-01',
             'week' => '金',
@@ -5567,6 +5567,13 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2021-02-23' => array(
+            'date' => '2021-02-23',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2021-03-20' => array(
             'date' => '2021-03-20',
@@ -5652,13 +5659,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2021-12-23' => array(
-            'date' => '2021-12-23',
-            'week' => '木',
-            'week_en' => 'Thursday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2022-01-01' => array(
             'date' => '2022-01-01',
             'week' => '土',
@@ -5679,6 +5679,13 @@ class Holidays
             'week_en' => 'Friday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2022-02-23' => array(
+            'date' => '2022-02-23',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2022-03-21' => array(
             'date' => '2022-03-21',
@@ -5764,13 +5771,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2022-12-23' => array(
-            'date' => '2022-12-23',
-            'week' => '金',
-            'week_en' => 'Friday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2023-01-01' => array(
             'date' => '2023-01-01',
             'week' => '日',
@@ -5798,6 +5798,13 @@ class Holidays
             'week_en' => 'Saturday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2023-02-23' => array(
+            'date' => '2023-02-23',
+            'week' => '木',
+            'week_en' => 'Thursday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2023-03-21' => array(
             'date' => '2023-03-21',
@@ -5883,13 +5890,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2023-12-23' => array(
-            'date' => '2023-12-23',
-            'week' => '土',
-            'week_en' => 'Saturday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2024-01-01' => array(
             'date' => '2024-01-01',
             'week' => '月',
@@ -5917,6 +5917,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
+        ),
+        '2024-02-23' => array(
+            'date' => '2024-02-23',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2024-03-20' => array(
             'date' => '2024-03-20',
@@ -6030,13 +6037,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2024-12-23' => array(
-            'date' => '2024-12-23',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2025-01-01' => array(
             'date' => '2025-01-01',
             'week' => '水',
@@ -6057,6 +6057,20 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2025-02-23' => array(
+            'date' => '2025-02-23',
+            'week' => '日',
+            'week_en' => 'Sunday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
+        ),
+        '2025-02-24' => array(
+            'date' => '2025-02-24',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2025-03-20' => array(
             'date' => '2025-03-20',
@@ -6156,13 +6170,6 @@ class Holidays
             'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
-        '2025-12-23' => array(
-            'date' => '2025-12-23',
-            'week' => '火',
-            'week_en' => 'Tuesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2026-01-01' => array(
             'date' => '2026-01-01',
             'week' => '木',
@@ -6183,6 +6190,13 @@ class Holidays
             'week_en' => 'Wednesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2026-02-23' => array(
+            'date' => '2026-02-23',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2026-03-20' => array(
             'date' => '2026-03-20',
@@ -6282,13 +6296,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2026-12-23' => array(
-            'date' => '2026-12-23',
-            'week' => '水',
-            'week_en' => 'Wednesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2027-01-01' => array(
             'date' => '2027-01-01',
             'week' => '金',
@@ -6309,6 +6316,13 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2027-02-23' => array(
+            'date' => '2027-02-23',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2027-03-21' => array(
             'date' => '2027-03-21',
@@ -6401,13 +6415,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2027-12-23' => array(
-            'date' => '2027-12-23',
-            'week' => '木',
-            'week_en' => 'Thursday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2028-01-01' => array(
             'date' => '2028-01-01',
             'week' => '土',
@@ -6428,6 +6435,13 @@ class Holidays
             'week_en' => 'Friday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2028-02-23' => array(
+            'date' => '2028-02-23',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2028-03-20' => array(
             'date' => '2028-03-20',
@@ -6513,13 +6527,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2028-12-23' => array(
-            'date' => '2028-12-23',
-            'week' => '土',
-            'week_en' => 'Saturday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2029-01-01' => array(
             'date' => '2029-01-01',
             'week' => '月',
@@ -6547,6 +6554,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
+        ),
+        '2029-02-23' => array(
+            'date' => '2029-02-23',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2029-03-20' => array(
             'date' => '2029-03-20',
@@ -6646,20 +6660,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2029-12-23' => array(
-            'date' => '2029-12-23',
-            'week' => '日',
-            'week_en' => 'Sunday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
-        '2029-12-24' => array(
-            'date' => '2029-12-24',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日 振替休日',
-            'name_en' => "Holiday in lieu",
-        ),
         '2030-01-01' => array(
             'date' => '2030-01-01',
             'week' => '火',
@@ -6680,6 +6680,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2030-02-23' => array(
+            'date' => '2030-02-23',
+            'week' => '土',
+            'week_en' => 'Saturday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2030-03-20' => array(
             'date' => '2030-03-20',
@@ -6786,13 +6793,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2030-12-23' => array(
-            'date' => '2030-12-23',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2031-01-01' => array(
             'date' => '2031-01-01',
             'week' => '水',
@@ -6813,6 +6813,20 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2031-02-23' => array(
+            'date' => '2031-02-23',
+            'week' => '日',
+            'week_en' => 'Sunday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
+        ),
+        '2031-02-24' => array(
+            'date' => '2031-02-24',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2031-03-21' => array(
             'date' => '2031-03-21',
@@ -6912,13 +6926,6 @@ class Holidays
             'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
-        '2031-12-23' => array(
-            'date' => '2031-12-23',
-            'week' => '火',
-            'week_en' => 'Tuesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2032-01-01' => array(
             'date' => '2032-01-01',
             'week' => '木',
@@ -6939,6 +6946,13 @@ class Holidays
             'week_en' => 'Wednesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2032-02-23' => array(
+            'date' => '2032-02-23',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2032-03-20' => array(
             'date' => '2032-03-20',
@@ -7031,13 +7045,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2032-12-23' => array(
-            'date' => '2032-12-23',
-            'week' => '木',
-            'week_en' => 'Thursday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2033-01-01' => array(
             'date' => '2033-01-01',
             'week' => '土',
@@ -7058,6 +7065,13 @@ class Holidays
             'week_en' => 'Friday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2033-02-23' => array(
+            'date' => '2033-02-23',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2033-03-20' => array(
             'date' => '2033-03-20',
@@ -7150,13 +7164,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2033-12-23' => array(
-            'date' => '2033-12-23',
-            'week' => '金',
-            'week_en' => 'Friday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2034-01-01' => array(
             'date' => '2034-01-01',
             'week' => '日',
@@ -7184,6 +7191,13 @@ class Holidays
             'week_en' => 'Saturday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2034-02-23' => array(
+            'date' => '2034-02-23',
+            'week' => '木',
+            'week_en' => 'Thursday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2034-03-20' => array(
             'date' => '2034-03-20',
@@ -7269,13 +7283,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2034-12-23' => array(
-            'date' => '2034-12-23',
-            'week' => '土',
-            'week_en' => 'Saturday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2035-01-01' => array(
             'date' => '2035-01-01',
             'week' => '月',
@@ -7303,6 +7310,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
+        ),
+        '2035-02-23' => array(
+            'date' => '2035-02-23',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2035-03-21' => array(
             'date' => '2035-03-21',
@@ -7402,20 +7416,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2035-12-23' => array(
-            'date' => '2035-12-23',
-            'week' => '日',
-            'week_en' => 'Sunday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
-        '2035-12-24' => array(
-            'date' => '2035-12-24',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日 振替休日',
-            'name_en' => "Holiday in lieu",
-        ),
         '2036-01-01' => array(
             'date' => '2036-01-01',
             'week' => '火',
@@ -7436,6 +7436,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2036-02-23' => array(
+            'date' => '2036-02-23',
+            'week' => '土',
+            'week_en' => 'Saturday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2036-03-20' => array(
             'date' => '2036-03-20',
@@ -7535,13 +7542,6 @@ class Holidays
             'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
-        '2036-12-23' => array(
-            'date' => '2036-12-23',
-            'week' => '火',
-            'week_en' => 'Tuesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2037-01-01' => array(
             'date' => '2037-01-01',
             'week' => '木',
@@ -7562,6 +7562,13 @@ class Holidays
             'week_en' => 'Wednesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2037-02-23' => array(
+            'date' => '2037-02-23',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2037-03-20' => array(
             'date' => '2037-03-20',
@@ -7661,13 +7668,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2037-12-23' => array(
-            'date' => '2037-12-23',
-            'week' => '水',
-            'week_en' => 'Wednesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2038-01-01' => array(
             'date' => '2038-01-01',
             'week' => '金',
@@ -7688,6 +7688,13 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2038-02-23' => array(
+            'date' => '2038-02-23',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2038-03-20' => array(
             'date' => '2038-03-20',
@@ -7773,13 +7780,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2038-12-23' => array(
-            'date' => '2038-12-23',
-            'week' => '木',
-            'week_en' => 'Thursday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2039-01-01' => array(
             'date' => '2039-01-01',
             'week' => '土',
@@ -7800,6 +7800,13 @@ class Holidays
             'week_en' => 'Friday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2039-02-23' => array(
+            'date' => '2039-02-23',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2039-03-21' => array(
             'date' => '2039-03-21',
@@ -7885,13 +7892,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2039-12-23' => array(
-            'date' => '2039-12-23',
-            'week' => '金',
-            'week_en' => 'Friday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2040-01-01' => array(
             'date' => '2040-01-01',
             'week' => '日',
@@ -7919,6 +7919,13 @@ class Holidays
             'week_en' => 'Saturday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2040-02-23' => array(
+            'date' => '2040-02-23',
+            'week' => '木',
+            'week_en' => 'Thursday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2040-03-20' => array(
             'date' => '2040-03-20',
@@ -8011,20 +8018,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2040-12-23' => array(
-            'date' => '2040-12-23',
-            'week' => '日',
-            'week_en' => 'Sunday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
-        '2040-12-24' => array(
-            'date' => '2040-12-24',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日 振替休日',
-            'name_en' => "Holiday in lieu",
-        ),
         '2041-01-01' => array(
             'date' => '2041-01-01',
             'week' => '火',
@@ -8045,6 +8038,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2041-02-23' => array(
+            'date' => '2041-02-23',
+            'week' => '土',
+            'week_en' => 'Saturday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2041-03-20' => array(
             'date' => '2041-03-20',
@@ -8151,13 +8151,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2041-12-23' => array(
-            'date' => '2041-12-23',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2042-01-01' => array(
             'date' => '2042-01-01',
             'week' => '水',
@@ -8178,6 +8171,20 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2042-02-23' => array(
+            'date' => '2042-02-23',
+            'week' => '日',
+            'week_en' => 'Sunday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
+        ),
+        '2042-02-24' => array(
+            'date' => '2042-02-24',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2042-03-20' => array(
             'date' => '2042-03-20',
@@ -8277,13 +8284,6 @@ class Holidays
             'name' => '勤労感謝の日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
-        '2042-12-23' => array(
-            'date' => '2042-12-23',
-            'week' => '火',
-            'week_en' => 'Tuesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2043-01-01' => array(
             'date' => '2043-01-01',
             'week' => '木',
@@ -8304,6 +8304,13 @@ class Holidays
             'week_en' => 'Wednesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2043-02-23' => array(
+            'date' => '2043-02-23',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2043-03-21' => array(
             'date' => '2043-03-21',
@@ -8403,13 +8410,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2043-12-23' => array(
-            'date' => '2043-12-23',
-            'week' => '水',
-            'week_en' => 'Wednesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2044-01-01' => array(
             'date' => '2044-01-01',
             'week' => '金',
@@ -8430,6 +8430,13 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2044-02-23' => array(
+            'date' => '2044-02-23',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2044-03-20' => array(
             'date' => '2044-03-20',
@@ -8522,13 +8529,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2044-12-23' => array(
-            'date' => '2044-12-23',
-            'week' => '金',
-            'week_en' => 'Friday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2045-01-01' => array(
             'date' => '2045-01-01',
             'week' => '日',
@@ -8556,6 +8556,13 @@ class Holidays
             'week_en' => 'Saturday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2045-02-23' => array(
+            'date' => '2045-02-23',
+            'week' => '木',
+            'week_en' => 'Thursday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2045-03-20' => array(
             'date' => '2045-03-20',
@@ -8641,13 +8648,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2045-12-23' => array(
-            'date' => '2045-12-23',
-            'week' => '土',
-            'week_en' => 'Saturday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2046-01-01' => array(
             'date' => '2046-01-01',
             'week' => '月',
@@ -8675,6 +8675,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日 振替休日',
             'name_en' => "Holiday in lieu",
+        ),
+        '2046-02-23' => array(
+            'date' => '2046-02-23',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2046-03-20' => array(
             'date' => '2046-03-20',
@@ -8774,20 +8781,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2046-12-23' => array(
-            'date' => '2046-12-23',
-            'week' => '日',
-            'week_en' => 'Sunday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
-        '2046-12-24' => array(
-            'date' => '2046-12-24',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日 振替休日',
-            'name_en' => "Holiday in lieu",
-        ),
         '2047-01-01' => array(
             'date' => '2047-01-01',
             'week' => '火',
@@ -8808,6 +8801,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2047-02-23' => array(
+            'date' => '2047-02-23',
+            'week' => '土',
+            'week_en' => 'Saturday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2047-03-21' => array(
             'date' => '2047-03-21',
@@ -8914,13 +8914,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2047-12-23' => array(
-            'date' => '2047-12-23',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2048-01-01' => array(
             'date' => '2048-01-01',
             'week' => '水',
@@ -8941,6 +8934,20 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2048-02-23' => array(
+            'date' => '2048-02-23',
+            'week' => '日',
+            'week_en' => 'Sunday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
+        ),
+        '2048-02-24' => array(
+            'date' => '2048-02-24',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '天皇誕生日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2048-03-20' => array(
             'date' => '2048-03-20',
@@ -9033,13 +9040,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2048-12-23' => array(
-            'date' => '2048-12-23',
-            'week' => '水',
-            'week_en' => 'Wednesday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2049-01-01' => array(
             'date' => '2049-01-01',
             'week' => '金',
@@ -9060,6 +9060,13 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2049-02-23' => array(
+            'date' => '2049-02-23',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2049-03-20' => array(
             'date' => '2049-03-20',
@@ -9152,13 +9159,6 @@ class Holidays
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
         ),
-        '2049-12-23' => array(
-            'date' => '2049-12-23',
-            'week' => '木',
-            'week_en' => 'Thursday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
-        ),
         '2050-01-01' => array(
             'date' => '2050-01-01',
             'week' => '土',
@@ -9179,6 +9179,13 @@ class Holidays
             'week_en' => 'Friday',
             'name' => '建国記念の日',
             'name_en' => "National Foundation Day",
+        ),
+        '2050-02-23' => array(
+            'date' => '2050-02-23',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '天皇誕生日',
+            'name_en' => "Emperor's Birthday",
         ),
         '2050-03-20' => array(
             'date' => '2050-03-20',
@@ -9270,13 +9277,6 @@ class Holidays
             'week_en' => 'Wednesday',
             'name' => '勤労感謝の日',
             'name_en' => "Labor Thanksgiving Day",
-        ),
-        '2050-12-23' => array(
-            'date' => '2050-12-23',
-            'week' => '金',
-            'week_en' => 'Friday',
-            'name' => '天皇誕生日',
-            'name_en' => "Emperor's Birthday",
         ),
     );
     
