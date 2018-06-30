@@ -58,7 +58,11 @@ class HolidayJpTest extends \PHPUnit_Framework_TestCase
         $this->assertFalse(HolidayJp::isHoliday($date));
 
         for ($year = 2016; $year <= 2050; $year++) {
-            $date = new DateTime($year . '-08-11');
+            if ($year == 2020) {
+                $date = new DateTime($year . '-08-10');
+            } else {
+                $date = new DateTime($year . '-08-11');
+            }
             $this->assertTrue(HolidayJp::isHoliday($date));
         }
     }

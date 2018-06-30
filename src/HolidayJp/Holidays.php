@@ -1,5 +1,5 @@
 <?php
-// Generated from holidays_detailed.yml at 2018-02-21 00:05:47
+// Generated from holidays_detailed.yml at 2018-06-30 21:55:23
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -5498,17 +5498,24 @@ class Holidays
             'name' => 'こどもの日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
-        '2020-07-20' => array(
-            'date' => '2020-07-20',
-            'week' => '月',
-            'week_en' => 'Monday',
+        '2020-07-23' => array(
+            'date' => '2020-07-23',
+            'week' => '木',
+            'week_en' => 'Thursday',
             'name' => '海の日',
             'name_en' => "Marine Day",
         ),
-        '2020-08-11' => array(
-            'date' => '2020-08-11',
-            'week' => '火',
-            'week_en' => 'Tuesday',
+        '2020-07-24' => array(
+            'date' => '2020-07-24',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => 'スポーツの日',
+            'name_en' => "Health and Sports Day",
+        ),
+        '2020-08-10' => array(
+            'date' => '2020-08-10',
+            'week' => '月',
+            'week_en' => 'Monday',
             'name' => '山の日',
             'name_en' => "Mountain Day",
         ),
@@ -5525,13 +5532,6 @@ class Holidays
             'week_en' => 'Tuesday',
             'name' => '秋分の日',
             'name_en' => "Autumnal Equinox Day",
-        ),
-        '2020-10-12' => array(
-            'date' => '2020-10-12',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => '体育の日',
-            'name_en' => "Health and Sports Day",
         ),
         '2020-11-03' => array(
             'date' => '2020-11-03',
@@ -5642,7 +5642,7 @@ class Holidays
             'date' => '2021-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2021-11-03' => array(
@@ -5754,7 +5754,7 @@ class Holidays
             'date' => '2022-10-10',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2022-11-03' => array(
@@ -5873,7 +5873,7 @@ class Holidays
             'date' => '2023-10-09',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2023-11-03' => array(
@@ -6013,7 +6013,7 @@ class Holidays
             'date' => '2024-10-14',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2024-11-03' => array(
@@ -6146,7 +6146,7 @@ class Holidays
             'date' => '2025-10-13',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2025-11-03' => array(
@@ -6279,7 +6279,7 @@ class Holidays
             'date' => '2026-10-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2026-11-03' => array(
@@ -6398,7 +6398,7 @@ class Holidays
             'date' => '2027-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2027-11-03' => array(
@@ -6510,7 +6510,7 @@ class Holidays
             'date' => '2028-10-09',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2028-11-03' => array(
@@ -6643,7 +6643,7 @@ class Holidays
             'date' => '2029-10-08',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2029-11-03' => array(
@@ -6769,7 +6769,7 @@ class Holidays
             'date' => '2030-10-14',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2030-11-03' => array(
@@ -6902,7 +6902,7 @@ class Holidays
             'date' => '2031-10-13',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2031-11-03' => array(
@@ -7028,7 +7028,7 @@ class Holidays
             'date' => '2032-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2032-11-03' => array(
@@ -7147,7 +7147,7 @@ class Holidays
             'date' => '2033-10-10',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2033-11-03' => array(
@@ -7266,7 +7266,7 @@ class Holidays
             'date' => '2034-10-09',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2034-11-03' => array(
@@ -7399,7 +7399,7 @@ class Holidays
             'date' => '2035-10-08',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2035-11-03' => array(
@@ -7518,7 +7518,7 @@ class Holidays
             'date' => '2036-10-13',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2036-11-03' => array(
@@ -7651,7 +7651,7 @@ class Holidays
             'date' => '2037-10-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2037-11-03' => array(
@@ -7763,7 +7763,7 @@ class Holidays
             'date' => '2038-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2038-11-03' => array(
@@ -7875,7 +7875,7 @@ class Holidays
             'date' => '2039-10-10',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2039-11-03' => array(
@@ -8001,7 +8001,7 @@ class Holidays
             'date' => '2040-10-08',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2040-11-03' => array(
@@ -8127,7 +8127,7 @@ class Holidays
             'date' => '2041-10-14',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2041-11-03' => array(
@@ -8260,7 +8260,7 @@ class Holidays
             'date' => '2042-10-13',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2042-11-03' => array(
@@ -8393,7 +8393,7 @@ class Holidays
             'date' => '2043-10-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2043-11-03' => array(
@@ -8512,7 +8512,7 @@ class Holidays
             'date' => '2044-10-10',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2044-11-03' => array(
@@ -8631,7 +8631,7 @@ class Holidays
             'date' => '2045-10-09',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2045-11-03' => array(
@@ -8764,7 +8764,7 @@ class Holidays
             'date' => '2046-10-08',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2046-11-03' => array(
@@ -8890,7 +8890,7 @@ class Holidays
             'date' => '2047-10-14',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2047-11-03' => array(
@@ -9023,7 +9023,7 @@ class Holidays
             'date' => '2048-10-12',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2048-11-03' => array(
@@ -9142,7 +9142,7 @@ class Holidays
             'date' => '2049-10-11',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2049-11-03' => array(
@@ -9261,7 +9261,7 @@ class Holidays
             'date' => '2050-10-10',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => 'スポーツの日',
             'name_en' => "Health and Sports Day",
         ),
         '2050-11-03' => array(
