@@ -1,13 +1,14 @@
 <?php
 namespace HolidayJp\Tests;
 
+use PHPUnit\Framework\TestCase;
 use Symfony\Component\Yaml\Yaml;
 use HolidayJp\HolidayJp;
 use DateTime;
 
 date_default_timezone_set('Asia/Tokyo');
 
-class HolidayJpTest extends \PHPUnit_Framework_TestCase
+class HolidayJpTest extends TestCase
 {
     /**
      * test_holidays
