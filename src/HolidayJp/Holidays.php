@@ -2017,7 +2017,7 @@ class Holidays
             'week' => '月',
             'week_en' => 'Monday',
             'name' => '即位礼正殿の儀',
-            'name_en' => "The Ceremony of the Enthronement of His Majesty th Emperor (at the Seiden)",
+            'name_en' => "The Ceremony of the Enthronement of His Majesty the Emperor (at the Seiden)",
         ),
         '1990-11-23' => array(
             'date' => '1990-11-23',
@@ -5330,6 +5330,27 @@ class Holidays
             'name' => '昭和の日',
             'name_en' => "Showa Day",
         ),
+        '2019-04-30' => array(
+            'date' => '2019-04-30',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '休日',
+            'name_en' => "Holiday",
+        ),
+        '2019-05-01' => array(
+            'date' => '2019-05-01',
+            'week' => '水',
+            'week_en' => 'Wednesday',
+            'name' => '休日（祝日扱い）',
+            'name_en' => "Holiday",
+        ),
+        '2019-05-02' => array(
+            'date' => '2019-05-02',
+            'week' => '木',
+            'week_en' => 'Thursday',
+            'name' => '休日',
+            'name_en' => "Holiday",
+        ),
         '2019-05-03' => array(
             'date' => '2019-05-03',
             'week' => '金',
@@ -5399,6 +5420,13 @@ class Holidays
             'week_en' => 'Monday',
             'name' => '体育の日',
             'name_en' => "Health and Sports Day",
+        ),
+        '2019-10-22' => array(
+            'date' => '2019-10-22',
+            'week' => '火',
+            'week_en' => 'Tuesday',
+            'name' => '休日（祝日扱い）',
+            'name_en' => "Holiday",
         ),
         '2019-11-03' => array(
             'date' => '2019-11-03',
@@ -9279,5 +9307,5 @@ class Holidays
             'name_en' => "Labor Thanksgiving Day",
         ),
     );
-    
+
 }
