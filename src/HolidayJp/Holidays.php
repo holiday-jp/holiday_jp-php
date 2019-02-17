@@ -5418,7 +5418,7 @@ class Holidays
             'date' => '2019-10-14',
             'week' => '月',
             'week_en' => 'Monday',
-            'name' => '体育の日',
+            'name' => '体育の日（スポーツの日）',
             'name_en' => "Health and Sports Day",
         ),
         '2019-10-22' => array(
