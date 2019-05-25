@@ -82,7 +82,7 @@ class HolidayJpTest extends TestCase
      *
      */
     public function test_countHolidays(){
-        $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays_detailed.yml'));
+        $yamlDate = Yaml::parse(file_get_contents('https://raw.githubusercontent.com/holiday-jp/holiday_jp/master/holidays_detailed.yml'));
         $holidays = HolidayJp::between(new DateTime('1970-01-01'), new DateTime('2050-12-31'));
         $this->assertEquals(count($yamlDate), count($holidays));
     }
@@ -92,7 +92,7 @@ class HolidayJpTest extends TestCase
      *
      */
     public function test_fullHolidays(){
-        $yamlDate = Yaml::parse(file_get_contents(dirname(__FILE__) . '/../../../holiday_jp/holidays_detailed.yml'));
+        $yamlDate = Yaml::parse(file_get_contents('https://raw.githubusercontent.com/holiday-jp/holiday_jp/master/holidays_detailed.yml'));
         foreach ($yamlDate as $date => $value) {
             $this->assertTrue(HolidayJp::isHoliday(new DateTime(date('Y-m-d', $date))));
             $actual = HolidayJp\Holidays::$holidays[date('Y-m-d', $date)];
