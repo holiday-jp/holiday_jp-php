@@ -1743,7 +1743,7 @@ class Holidays
             'date' => '1988-05-04',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1988-05-05' => array(
@@ -1855,7 +1855,7 @@ class Holidays
             'date' => '1989-05-04',
             'week' => '木',
             'week_en' => 'Thursday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1989-05-05' => array(
@@ -1967,7 +1967,7 @@ class Holidays
             'date' => '1990-05-04',
             'week' => '金',
             'week_en' => 'Friday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1990-05-05' => array(
@@ -2086,7 +2086,7 @@ class Holidays
             'date' => '1991-05-04',
             'week' => '土',
             'week_en' => 'Saturday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1991-05-05' => array(
@@ -2303,7 +2303,7 @@ class Holidays
             'date' => '1993-05-04',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1993-05-05' => array(
@@ -2415,7 +2415,7 @@ class Holidays
             'date' => '1994-05-04',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1994-05-05' => array(
@@ -2527,7 +2527,7 @@ class Holidays
             'date' => '1995-05-04',
             'week' => '木',
             'week_en' => 'Thursday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1995-05-05' => array(
@@ -2632,7 +2632,7 @@ class Holidays
             'date' => '1996-05-04',
             'week' => '土',
             'week_en' => 'Saturday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1996-05-05' => array(
@@ -2982,7 +2982,7 @@ class Holidays
             'date' => '1999-05-04',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '1999-05-05' => array(
@@ -3094,7 +3094,7 @@ class Holidays
             'date' => '2000-05-04',
             'week' => '木',
             'week_en' => 'Thursday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2000-05-05' => array(
@@ -3213,7 +3213,7 @@ class Holidays
             'date' => '2001-05-04',
             'week' => '金',
             'week_en' => 'Friday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2001-05-05' => array(
@@ -3332,7 +3332,7 @@ class Holidays
             'date' => '2002-05-04',
             'week' => '土',
             'week_en' => 'Saturday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2002-05-05' => array(
@@ -3563,7 +3563,7 @@ class Holidays
             'date' => '2004-05-04',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2004-05-05' => array(
@@ -3675,7 +3675,7 @@ class Holidays
             'date' => '2005-05-04',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2005-05-05' => array(
@@ -3787,7 +3787,7 @@ class Holidays
             'date' => '2006-05-04',
             'week' => '木',
             'week_en' => 'Thursday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2006-05-05' => array(
@@ -4179,7 +4179,7 @@ class Holidays
             'date' => '2009-09-22',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2009-09-23' => array(
@@ -4879,7 +4879,7 @@ class Holidays
             'date' => '2015-09-22',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2015-09-23' => array(
@@ -5523,7 +5523,7 @@ class Holidays
             'date' => '2020-05-06',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => 'こどもの日 振替休日',
+            'name' => '憲法記念日 振替休日',
             'name_en' => "Holiday in lieu",
         ),
         '2020-07-23' => array(
@@ -6293,7 +6293,7 @@ class Holidays
             'date' => '2026-09-22',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2026-09-23' => array(
@@ -7042,7 +7042,7 @@ class Holidays
             'date' => '2032-09-21',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2032-09-22' => array(
@@ -7665,7 +7665,7 @@ class Holidays
             'date' => '2037-09-22',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2037-09-23' => array(
@@ -8407,7 +8407,7 @@ class Holidays
             'date' => '2043-09-22',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2043-09-23' => array(
@@ -9156,7 +9156,7 @@ class Holidays
             'date' => '2049-09-21',
             'week' => '火',
             'week_en' => 'Tuesday',
-            'name' => '国民の休日',
+            'name' => '休日',
             'name_en' => "Citizen's Holiday",
         ),
         '2049-09-22' => array(
