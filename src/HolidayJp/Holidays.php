@@ -1827,7 +1827,7 @@ class Holidays
             'date' => '1989-02-24',
             'week' => '金',
             'week_en' => 'Friday',
-            'name' => '昭和天皇の大喪の礼',
+            'name' => '大喪の礼',
             'name_en' => "The Funeral Ceremony of Emperor Showa.",
         ),
         '1989-03-21' => array(
@@ -2317,7 +2317,7 @@ class Holidays
             'date' => '1993-06-09',
             'week' => '水',
             'week_en' => 'Wednesday',
-            'name' => '皇太子徳仁親王の結婚の儀',
+            'name' => '結婚の儀',
             'name_en' => "The Rite of Wedding of HIH Crown Prince Naruhito",
         ),
         '1993-09-15' => array(
