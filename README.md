@@ -1,4 +1,4 @@
-# holiday_jp PHP [![Build Status](https://travis-ci.org/holiday-jp/holiday_jp-php.svg?branch=master)](https://travis-ci.org/holiday-jp/holiday_jp-php) [![Packagist](https://img.shields.io/packagist/v/holiday-jp/holiday_jp.svg)](https://packagist.org/packages/holiday-jp/holiday_jp)
+# holiday_jp PHP [![test](https://github.com/holiday-jp/holiday_jp-php/workflows/test/badge.svg)](https://github.com/holiday-jp/holiday_jp-php/actions) [![Packagist](https://img.shields.io/packagist/v/holiday-jp/holiday_jp.svg)](https://packagist.org/packages/holiday-jp/holiday_jp)
 
 Get holidays in Japan.
 
