@@ -1,0 +1,29 @@
+---
+name: test
+
+on:
+  push:
+  schedule:
+    - cron:  '0 1 * * *'
+
+jobs:
+  job-test:
+    name: Test
+    strategy:
+      matrix:
+        php-version: [ '5.4', '5.5', '5.6', '7.1', '7.2', '7.3', '7.4' ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup PHP
+        uses: nanasess/setup-php@master
+        with:
+          php-version: ${{ matrix.php-version }}
+
+      - name: Check out source code
+        uses: actions/checkout@v2
+
+      - name: Setup
+        run: composer install
+
+      - name: Run test
+        run: ./vendor/bin/phpunit
