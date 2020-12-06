@@ -61,6 +61,8 @@ class HolidayJpTest extends TestCase
         for ($year = 2016; $year <= 2050; $year++) {
             if ($year == 2020) {
                 $date = new DateTime($year . '-08-10');
+            } else if ($year == 2021) {
+                $date = new DateTime($year . '-08-08');
             } else {
                 $date = new DateTime($year . '-08-11');
             }
