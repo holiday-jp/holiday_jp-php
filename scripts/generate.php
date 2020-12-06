@@ -8,7 +8,7 @@ require 'vendor/autoload.php';
 
 use Symfony\Component\Yaml\Yaml;
 
-$holidays = Yaml::parse(file_get_contents('holiday_jp/holidays_detailed.yml'));
+$holidays = Yaml::parse(file_get_contents('https://raw.githubusercontent.com/holiday-jp/holiday_jp/master/holidays_detailed.yml'));
 
 $timestamp = date('Y-m-d H:i:s');
 echo <<<EOS

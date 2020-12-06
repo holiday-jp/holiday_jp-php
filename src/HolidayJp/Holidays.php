@@ -1,5 +1,5 @@
 <?php
-// Generated from holidays_detailed.yml at 2018-06-30 21:55:23
+// Generated from holidays_detailed.yml at 2020-12-06 18:59:20
 namespace HolidayJp\HolidayJp;
 
 /**
@@ -5638,19 +5638,33 @@ class Holidays
             'name' => 'こどもの日',
             'name_en' => "Children's Day",
         ),
-        '2021-07-19' => array(
-            'date' => '2021-07-19',
-            'week' => '月',
-            'week_en' => 'Monday',
+        '2021-07-22' => array(
+            'date' => '2021-07-22',
+            'week' => '木',
+            'week_en' => 'Thursday',
             'name' => '海の日',
             'name_en' => "Marine Day",
         ),
-        '2021-08-11' => array(
-            'date' => '2021-08-11',
-            'week' => '水',
-            'week_en' => 'Wednesday',
+        '2021-07-23' => array(
+            'date' => '2021-07-23',
+            'week' => '金',
+            'week_en' => 'Friday',
+            'name' => 'スポーツの日',
+            'name_en' => "Health and Sports Day",
+        ),
+        '2021-08-08' => array(
+            'date' => '2021-08-08',
+            'week' => '日',
+            'week_en' => 'Sunday',
             'name' => '山の日',
             'name_en' => "Mountain Day",
+        ),
+        '2021-08-09' => array(
+            'date' => '2021-08-09',
+            'week' => '月',
+            'week_en' => 'Monday',
+            'name' => '山の日 振替休日',
+            'name_en' => "Holiday in lieu",
         ),
         '2021-09-20' => array(
             'date' => '2021-09-20',
@@ -5665,13 +5679,6 @@ class Holidays
             'week_en' => 'Thursday',
             'name' => '秋分の日',
             'name_en' => "Autumnal Equinox Day",
-        ),
-        '2021-10-11' => array(
-            'date' => '2021-10-11',
-            'week' => '月',
-            'week_en' => 'Monday',
-            'name' => 'スポーツの日',
-            'name_en' => "Health and Sports Day",
         ),
         '2021-11-03' => array(
             'date' => '2021-11-03',
@@ -9307,5 +9314,5 @@ class Holidays
             'name_en' => "Labor Thanksgiving Day",
         ),
     );
-
+    
 }
